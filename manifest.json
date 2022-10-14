@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
 
-  "name": "VS Code",
-  "version": "2.3",
+  "name": "GitHub Repository Explorer",
+  "version": "1.0.0",
 
   "action": {
-    "default_icon": "vscode.png"
+    "default_icon": "github.png"
   },
 
   "background": {
@@ -13,7 +13,7 @@
   },
 
   "icons": {
-    "16": "vscode.png"
+    "256": "github.png"
   },
 
   "commands": {
@@ -22,11 +22,11 @@
         "default": "Ctrl+Period",
         "mac": "Command+Period"
       },
-      "description": "Launch vscode.dev"
+      "description": "GitHub Repository"
     }
   },
 
   "permissions": ["tabs", "history", "storage"],
 
-  "omnibox": { "keyword": "code" }
+  "omnibox": { "keyword": "repo" }
 }
