@@ -1,6 +1,6 @@
 # GitHub Repository Explorer v1.0.0
 
-<img src="https://github.com/MrAbdurakhimov/Chrome-GitHub-Repo-Launcher-Extension/blob/main/github.png"  alt="github repo reveal logo"/>
+![github repo reveal logo](https://github.com/MrAbdurakhimov/Chrome-GitHub-Repo-Launcher-Extension/blob/main/github.png)
 
 A simple Chrome/Edge Extension for launching Recent GitHub Repositories, or searching on GitHub, inspired by VS Code Launcher by Microsoft (VS Code Team).
 
