@@ -12,4 +12,4 @@ Type `repo` into your browser's search bar to activate the omnibox and launch yo
 
 ## YouTube Video
 
-<iframe width="1268" height="713" src="https://www.youtube.com/embed/IQCrWWshk3E" title="GitHub Repository Explorer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="713" src="https://www.youtube.com/embed/IQCrWWshk3E" title="GitHub Repository Explorer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
