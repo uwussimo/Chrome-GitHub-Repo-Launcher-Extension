@@ -6,8 +6,11 @@ A simple Chrome/Edge Extension for launching Recent GitHub Repositories, or sear
 
 ## Installation
 
+<a href="https://chrome.google.com/webstore/detail/github-repository-explore/eahjlihgcopjpngnogijleocdjegledp">
+  
 ![Awailable on Chrome Extension Store](https://github.com/MrAbdurakhimov/Chrome-GitHub-Repo-Launcher-Extension/blob/main/images/Available%20in%20the%20CWS.png?raw=true)
 
+</a>
 
 ## Video Introduction
 
