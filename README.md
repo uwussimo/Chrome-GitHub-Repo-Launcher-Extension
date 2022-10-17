@@ -14,7 +14,7 @@ A simple Chrome/Edge Extension for launching Recent GitHub Repositories, or sear
 
 ## Video Introduction
 
-<iframe width="100%" height="280" src="https://www.youtube.com/embed/IQCrWWshk3E" title="GitHub Repository Explorer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=IQCrWWshk3E
 
 
 ## Features
