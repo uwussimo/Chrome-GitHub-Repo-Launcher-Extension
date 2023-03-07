@@ -4,7 +4,7 @@
 
 A simple Chrome/Edge Extension for launching Recent GitHub Repositories, or searching on GitHub, inspired by VS Code Launcher by Microsoft (VS Code Team).
 
-<a href="https://www.producthunt.com/posts/chrome-github-repository-explorer?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chrome&#0045;github&#0045;repository&#0045;explorer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=382810&theme=light" alt="Chrome&#0032;GitHub&#0032;Repository&#0032;Explorer - GitHub&#0032;Explorer&#0058;&#0032;Explore&#0032;your&#0032;GitHub&#0032;repositories&#0032;with&#0032;ease | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/chrome-github-repository-explorer?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chrome&#0045;github&#0045;repository&#0045;explorer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=382810&theme=dark" alt="Chrome&#0032;GitHub&#0032;Repository&#0032;Explorer - GitHub&#0032;Explorer&#0058;&#0032;Explore&#0032;your&#0032;GitHub&#0032;repositories&#0032;with&#0032;ease | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Installation
 
